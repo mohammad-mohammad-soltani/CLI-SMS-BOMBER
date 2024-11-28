@@ -29,7 +29,7 @@ A simple command-line tool designed for SMS bombing. This tool sends multiple SM
 1. Run the script:
 
    ```bash
-   bomber -help
+    python bomber.py 
    ```
 2. type your target phone to sms spam
 
